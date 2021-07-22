@@ -1,0 +1,14 @@
+{
+  "name": "yt-bot",
+  "version": "1.0.0",
+  "description": "milk",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "UnknownEpic",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
