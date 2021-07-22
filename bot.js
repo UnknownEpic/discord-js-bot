@@ -5,4 +5,4 @@ client.once('ready',() => {
     console.log('Ready!');
 });
 
-client.login('ODQ1OTYxOTA3NTgzNzEzMjgy.YKolaw.Qd0cBNSLiygZpKWCyVP_QOmxglA');
+client.login('Your_Token_Here');
